@@ -1,2 +1,2 @@
 # hello-world
-Learning
+I'm trying to improve my development skills in Java.
